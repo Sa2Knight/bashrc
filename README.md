@@ -13,6 +13,7 @@ alias ga="git add"
 alias gr="git rm"
 alias gp="git push origin"
 alias gpm="git push origin master"
+alias gb="git branch"
 alias gl="git log --graph --date=short --decorate=short --pretty=format:'%Cgreen%h %Creset%cd %Cblue%cn %Cred%d %Creset%s'"
 
 cd ()
